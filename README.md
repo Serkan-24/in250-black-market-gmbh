@@ -12,7 +12,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 - [x] Dozent als Collaborator hinzugefügt
 - [x] docs-Struktur erstellt und Inhalte verschoben
 - [x] .gitignore und Secrets bereinigen
-- [ ] GitHub Actions Automatisierung (stale)
+- [x] GitHub Actions Automatisierung (stale)
 - [ ] Branch-Strategie + Schutzregeln + Tag v1.0
 - [ ] Merge-Konflikt erstellen und lösen
 - [ ] GitHub Pages aktivieren
@@ -39,3 +39,15 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
   Verwendet für: Secrets / sensible Dateien (.gitignore)
 - ChatGPT (OpenAI), Konversationshilfe/Troubleshooting, Zugriff: 23.02.2026
   Verwendet für: Fehleranalyse, Schrittfolge, Hinweise, Fehlerbehebung (Aufgabe 6 / Blockaden)
+
+- ChatGPT (OpenAI), Konfigurationshilfe GitHub Actions, Zugriff: 28.02.2026
+
+  Verwendet für: Aufgabe 7 (Erstellung und Erklärung der stale.yml, Workflow-Struktur, Fehleranalyse)
+
+- ChatGPT (OpenAI), Konfigurationshilfe GitHub Actions, Zugriff: 28.02.2026
+
+  Verwendet für: Aufgabe 7 (Erstellung und Erklärung der stale.yml, Workflow-Struktur, Fehleranalyse)
+
+- GitHub Repository: actions/stale, Zugriff: 28.02.2026, https://github.com/actions/stale
+
+  Verwendet für: Aufgabe 7 (Konfiguration stale.yml)
