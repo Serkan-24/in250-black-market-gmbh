@@ -11,7 +11,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 - [x] Repository geforkt und lokal geklont
 - [x] Dozent als Collaborator hinzugefügt
 - [x] docs-Struktur erstellt und Inhalte verschoben
-- [ ] .gitignore und Secrets bereinigen
+- [x] .gitignore und Secrets bereinigen
 - [ ] GitHub Actions Automatisierung (stale)
 - [ ] Branch-Strategie + Schutzregeln + Tag v1.0
 - [ ] Merge-Konflikt erstellen und lösen
@@ -34,3 +34,8 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 
 - ChatGPT (Konversationshilfe), Zugriff: 22.02.2026  
   Verwendet für: Aufgabe 3–5 (Schrittfolge, Hinweise, Fehlerbehebung)
+
+- GitHub Docs: Ignoring files (.gitignore), Zugriff: 23.02.2026, https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+  Verwendet für: Secrets / sensible Dateien (.gitignore)
+- ChatGPT (OpenAI), Konversationshilfe/Troubleshooting, Zugriff: 23.02.2026
+  Verwendet für: Fehleranalyse, Schrittfolge, Hinweise, Fehlerbehebung (Aufgabe 6 / Blockaden)

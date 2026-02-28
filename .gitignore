@@ -1,0 +1,5 @@
+# secrets (Aufgabe 6)
+.env
+KREDITKARTEN.txt
+secret.json
+secret.yml
