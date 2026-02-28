@@ -44,10 +44,6 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 
   Verwendet für: Aufgabe 7 (Erstellung und Erklärung der stale.yml, Workflow-Struktur, Fehleranalyse)
 
-- ChatGPT (OpenAI), Konfigurationshilfe GitHub Actions, Zugriff: 28.02.2026
-
-  Verwendet für: Aufgabe 7 (Erstellung und Erklärung der stale.yml, Workflow-Struktur, Fehleranalyse)
-
 - GitHub Repository: actions/stale, Zugriff: 28.02.2026, https://github.com/actions/stale
 
   Verwendet für: Aufgabe 7 (Konfiguration stale.yml)
