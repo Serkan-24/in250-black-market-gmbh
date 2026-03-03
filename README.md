@@ -6,6 +6,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 
 ## Dokumentation
 - [Verzeichnisstruktur](docs/01_verzeichnisstruktur.md)
+- [Branch-Strategie](docs/02_branch_strategie.md)
 
 ## Tasks
 - [x] Repository geforkt und lokal geklont
@@ -13,7 +14,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 - [x] docs-Struktur erstellt und Inhalte verschoben
 - [x] .gitignore und Secrets bereinigen
 - [x] GitHub Actions Automatisierung (stale)
-- [ ] Branch-Strategie + Schutzregeln + Tag v1.0
+- [x] Branch-Strategie + Schutzregeln + Tag v1.0
 - [ ] Merge-Konflikt erstellen und lösen
 - [ ] GitHub Pages aktivieren
 - [ ] Abschluss: Security Policy, Dependabot, PR/Issue im Original-Repo
@@ -41,9 +42,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
   Verwendet für: Fehleranalyse, Schrittfolge, Hinweise, Fehlerbehebung (Aufgabe 6 / Blockaden)
 
 - ChatGPT (OpenAI), Konfigurationshilfe GitHub Actions, Zugriff: 28.02.2026
-
   Verwendet für: Aufgabe 7 (Erstellung und Erklärung der stale.yml, Workflow-Struktur, Fehleranalyse)
 
 - GitHub Repository: actions/stale, Zugriff: 28.02.2026, https://github.com/actions/stale
-
   Verwendet für: Aufgabe 7 (Konfiguration stale.yml)
