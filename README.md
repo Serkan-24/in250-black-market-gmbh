@@ -15,7 +15,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 - [x] .gitignore und Secrets bereinigen
 - [x] GitHub Actions Automatisierung (stale)
 - [x] Branch-Strategie + Schutzregeln + Tag v1.0
-- [ ] Merge-Konflikt erstellen und lösen
+- [x] Merge-Konflikt erstellen und lösen
 - [ ] GitHub Pages aktivieren
 - [ ] Abschluss: Security Policy, Dependabot, PR/Issue im Original-Repo
 
@@ -37,12 +37,19 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
   Verwendet für: Aufgabe 3–5 (Schrittfolge, Hinweise, Fehlerbehebung)
 
 - GitHub Docs: Ignoring files (.gitignore), Zugriff: 23.02.2026, https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-  Verwendet für: Secrets / sensible Dateien (.gitignore)
+  Verwendet für: Aufgabe 6 (Secrets / sensible Dateien .gitignore)
+
 - ChatGPT (OpenAI), Konversationshilfe/Troubleshooting, Zugriff: 23.02.2026
-  Verwendet für: Fehleranalyse, Schrittfolge, Hinweise, Fehlerbehebung (Aufgabe 6 / Blockaden)
+  Verwendet für:Fehleranalyse, Schrittfolge, Hinweise, Fehlerbehebung (Aufgabe 6 / Blockaden)
 
 - ChatGPT (OpenAI), Konfigurationshilfe GitHub Actions, Zugriff: 28.02.2026
   Verwendet für: Aufgabe 7 (Erstellung und Erklärung der stale.yml, Workflow-Struktur, Fehleranalyse)
 
 - GitHub Repository: actions/stale, Zugriff: 28.02.2026, https://github.com/actions/stale
   Verwendet für: Aufgabe 7 (Konfiguration stale.yml)
+
+- Merging und GitHub Vertiefung (PDF: in250-block6-folien.pdf), Marc Singer, Zugriff: 03.03.2026  
+  Verwendet für: Aufgabe 8 (Branch-Strategie, Pull Request, Git Tag / Release v1.0)
+
+- Git & Markdown Vertiefungen (PDF: in250-block6-folien.pdf), Marc Singer, Zugriff: 04.03.2026  
+  Verwendet für: Aufgabe 9 (Merge-Konflikt erstellen und lösen)
