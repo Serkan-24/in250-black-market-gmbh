@@ -2,6 +2,10 @@
 
 Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 
+## Website
+GitHub Pages:
+https://serkan-24.github.io/in250-black-market-gmbh/
+
 ![Repository Screenshot](docs/img/repo-screenshot.png)
 
 ## Dokumentation
@@ -16,7 +20,7 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 - [x] GitHub Actions Automatisierung (stale)
 - [x] Branch-Strategie + Schutzregeln + Tag v1.0
 - [x] Merge-Konflikt erstellen und lösen
-- [ ] GitHub Pages aktivieren
+- [x] GitHub Pages aktivieren
 - [ ] Abschluss: Security Policy, Dependabot, PR/Issue im Original-Repo
 
 ## Quellen
@@ -53,3 +57,22 @@ Kurze Beschreibung des Repositories und der Aufgaben aus dem Praxisauftrag.
 
 - Git & Markdown Vertiefungen (PDF: in250-block6-folien.pdf), Marc Singer, Zugriff: 04.03.2026  
   Verwendet für: Aufgabe 9 (Merge-Konflikt erstellen und lösen)
+
+- IN250 Block 5 Folien (PDF: in250-block5-folien.pdf), Marc Singer, Zugriff: 06.03.2026  
+Verwendet für: Aufgabe 10 (Branch Workflow, Pull Request und Merge in main)
+
+- IN250 Block 6 Folien (PDF: in250-block6-folien.pdf), Marc Singer, Zugriff: 06.03.2026  
+Verwendet für: Aufgabe 10 (Deployment / Veröffentlichung einer Website aus einem Repository)
+
+- Git Cheat Sheet Education (PDF: git-cheat-sheet-education.pdf), Zugriff: 06.03.2026  
+Verwendet für: Git Befehle während Aufgabe 10
+
+- GitHub Docs – GitHub Pages, Zugriff: 06.03.2026  
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site  
+Verwendet für: Aufgabe 10 (GitHub Pages Konfiguration main/docs)
+
+- ChatGPT (OpenAI), Konversationshilfe, Zugriff: 06.03.2026  
+Verwendet für: Erklärung der Schritte und Fehlerkontrolle während Aufgabe 10
+
+
+
