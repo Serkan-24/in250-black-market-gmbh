@@ -21,7 +21,7 @@ https://serkan-24.github.io/in250-black-market-gmbh/
 - [x] Branch-Strategie + Schutzregeln + Tag v1.0
 - [x] Merge-Konflikt erstellen und lösen
 - [x] GitHub Pages aktivieren
-- [ ] Abschluss: Security Policy, Dependabot, PR/Issue im Original-Repo
+- [x] Abschluss: Security Policy, Dependabot, PR/Issue im Original-Repo
 
 ## Quellen
 
@@ -73,6 +73,14 @@ Verwendet für: Aufgabe 10 (GitHub Pages Konfiguration main/docs)
 
 - ChatGPT (OpenAI), Konversationshilfe, Zugriff: 06.03.2026  
 Verwendet für: Erklärung der Schritte und Fehlerkontrolle während Aufgabe 10
+
+- GitHub Docs: Adding a security policy to your repository, Zugriff: 07.03.2026  
+  https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository  
+  Verwendet für: Aufgabe 11 (SECURITY.md / Sicherheitsrichtlinie)
+
+- GitHub Docs: Configuration options for the dependabot.yml file, Zugriff: 07.03.2026  
+  https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file  
+  Verwendet für: Aufgabe 11 (Dependabot-Konfiguration / .github/dependabot.yml)
 
 
 
